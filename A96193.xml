@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVelchmans last petition and protestation: desiring that speedy aide might bee sent her against her home-bred enemies, as her shall declare and shew to be in her following petition. Whereunto is added the protestation of Thomas, ap Shinkin, ap Morgan, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96193</idno><idno type="EEBO-CITATION">99863740</idno>
+  <idno type="VID">115954</idno>
+  <idno type="EEBO-PROQUEST">2248551241</idno>
+  
+            <idno type="STC">Wing W1327</idno>
+            <idno type="STC">Thomason E136_18</idno>
+            <idno type="STC">ESTC R204</idno>
+            <idno type="PROQUEST">99863740</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863740e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115954)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVelchmans last petition and protestation: desiring that speedy aide might bee sent her against her home-bred enemies, as her shall declare and shew to be in her following petition. Whereunto is added the protestation of Thomas, ap Shinkin, ap Morgan, &amp;c.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for F. Couls, T. Bates, I. Wright, T. Banks,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Shinken, Thomas ap.</term>
+               <term type="topical_term">National characteristics, Welsh --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Ethnic wit and humor --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115954:1"/>
+            <p>The VVelchmans last Petition and Protestation: desiring that speedy aide might bee sent her against her home-bred enemies, as her shall declare and shew to be in her following Petition. Whereunto is added the Prote<g ref="char:EOLhyphen"/>station of <hi>Thomas, ap Shinkin, ap Morgan,</hi> &amp;c.</p>
+            <figure>
+               <figDesc>hatted man with walking stick</figDesc>
+            </figure>
+            <p>Printed at <hi>London</hi> for <hi>F. Couls, T. Bates, I. Wright, T. Banks.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:115954:2"/>
+            <head>The VVelch-mans last PETITION And Protestation.</head>
+            <head type="sub">Desiring that speedy ayde might bee sent her against her home-bred enemies, as her shall declare and shew to be in her following Petition.</head>
+            <p>Humbly sheweth,</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat although her Countrymen in Wales have not often shew'd her griefes and injuries in long Bills and Petitions, yet may it please your good Lordships to understand, that her hath great causes to put up her scrolls of papers in all humilities to shew unto your Honours considerations that her hath in her Countryes and Principalities, many ene<g ref="char:EOLhyphen"/>mies enclined to Poperies and old Services, and a great deale of foes her know where, that dwell hard by the Mountaines, and in the Valles, that doe seeke to destroy her commodities and Trafficks, and eate up her bread and Sheese out of her wives and childrens mouths, and to devour all her other provisions, as all her Cousens can bee witnesses upon their Oathes and Bookes. Her doe not here make her complaints against pipple pab<g ref="char:EOLhyphen"/>bles or small matters, but of a great businesse, wherein her must accuse a little old Jesuiticall Theefe, that hath long made havock in her Countries, her I meane that hath little small eyes, long head, not a Round head, foure
+<pb facs="tcp:115954:2"/>leggs, and a long Tayle. Her doe not meane Robin Run in the hole, that doth make her walkes and ambulations under ground, but does no harmes and wrongs to her countries, nor our Sheep-mutton though little in bo<g ref="char:EOLhyphen"/>dies, but sweet in the bellies and in tast, are not to be blamed, for they are good innocent cattell, and being droven to Markets and Faires, doe afford her Country-men good pounds, shillings and pence, for her had for one Sheep-mutton threescore and two pence, which her hath brought home into Wales. Nor doe her complain of her Cock Geldings, nor of her welch Goat or venson, nor of her welch Runt, which yeelds her Butter and Cheese day by day, and doe her much good by milke for her yongest child, though her would faine have eate of the same, yet her will never be fat, but her will be still leane of the Ribbs, so that you may see her hauuch bonet, hough her have Hay and Beanes enough, as <hi>Chaucer</hi> calles it in his 10. <hi>Chap.</hi> 727. <hi>pag.</hi> Nor doe her meane here to make Orations and com<g ref="char:EOLhyphen"/>plaints against Light-foot, cogging wat; for her can chase her away with her puppy-dog which lyes in her chimny corner, and make her runne in great terrors and frights over the Mountaines: Neither hath her any mea<g ref="char:EOLhyphen"/>ning to bring in her accusations against that good breeding Bird with the yellow bill, that goes over the greene bare-foot, which her doe meane to send up by the next Carrier to St. <hi>Martins</hi> as they call her, that her may be taken measurefor a new paire of shooes to be made there, because her is afraid her should take cold.</p>
+            <p>These and many more other fowles and cattells are not troublesome nor oppressions to our Countries, but onely that arrant rogues and greedy companions Master Little-eyes, who as soone as her hath done any mis<g ref="char:EOLhyphen"/>chiefe, whip Sir <hi>Davy,</hi> her runs into her hole, and drawes her long tayle after her, which may been compared in similitudes and likenesses unto the long tayle of a Tortoise; and moreover this Master <hi>Little-eyes</hi> hath sharp teeth, like the Combs which fetch out her other enemy out of her head in the very thickest place. But in a word, to be briefe and tedious as I said before, so her doe say so still, that this her Jesuiticall enemy doth daily in<g ref="char:EOLhyphen"/>crease, and more rebells still come to these her enemies: And this is that cunning pated Rascalls that doe her Countrimens so much wrong, her may very well call him a Thiefe and robber of the Common-wealths, Habitations, Houses and Cupboards; and all his Ancestors comming from pig-houses, they are now a great long while agoe so encreased and multi<g ref="char:EOLhyphen"/>plyed, that they eate up all her Corne in her Barnes, and will run from her cousen <hi>ap-Morgans,</hi> to her cousens <hi>ap-Griffins</hi> house, and doe most la<g ref="char:EOLhyphen"/>mentable spoiles, and rob them of all their Bacons, so that all her cousens and Country-men can send out no Hue and Cry to take and catch these
+<pb facs="tcp:115954:3"/>her enemies. who will presently in despight of her teeth and all her Offi<g ref="char:EOLhyphen"/>cers, run back into safe lurking holes, that her cannot spy them out though her get on the top of the Mountames, and looke round about all Wales; neither can her without her had Grim Malkins eyes see out her enemies by night, but when her be fast asleepe with her Wife and Children, her is at her knavish pranks. In all humilities shewing also, that these Truants are oar mortall enemies which lurke about the Country, both in House and Field, and especially in our Barnes and Cheese-lofts, which her can prove before God and man, that this villanous enemy is not content with cleanely Pudding though it were as long as her arme; nor with as good saveet Butter as ere was put into her mouth, which her may, gnaw, and eate with her sharpe teeth, and her would not be so much offended; nei<g ref="char:EOLhyphen"/>ther will her be content with one Cheese, nor with two, but her under<g ref="char:EOLhyphen"/>mines and diggs Holds and holes within her best and greatest Cheeses, which her to send up to Doctor <hi>Roan</hi> for a bribe or token, her had not best say bribe, her will see if her can find bribe in her Dictionary, which her bought of her deare Country-man <hi>Owen Cadwelladoure,</hi> which is bound within Sheepe Parchment, which cost her a silver two pence, and her cousen <hi>Cadwalladoure</hi> told her, that her Country-man, <hi>William Per<g ref="char:EOLhyphen"/>kins</hi> made that Dictionary, and hath put an hundred words more in her Dictionary than was before, and hath set downe many Monuments in her Dictionary, as for making of Guns, Cod blesse us from a Cun I pray Cod, and other Relations of credit, as of King <hi>Davids</hi> death and such like; but her would faine know as well how long Cheese and Butter hath beene made, as well as Guns and Bowes were inventing: Her doe ima<g ref="char:EOLhyphen"/>gine her enemy doth not barre her chest, but her can lawfull sweare as farre as her doe know, that her doth tost her Cheese called bobba, or because her see her in her Chimny corner so often: But her will proceed no more against her enemies in words.</p>
+            <p>Her hath sufficiently described her enemies condition and rebellious nature, for her doth destroy and burne all her layes her clawes upon, no, her must not say burne All, for then the word will not hold good con<g ref="char:EOLhyphen"/>struction, but that he spoyles and demolishes all the Cheeses, especially the best Cheeses, for he as I must tell you hath a notable pallat to taste which is best, and which is not; now what good Subjects can deny her enemies to be Rebels and Felons, for they doe daily steale, robbe, devoure, beare away her Goods spight of her nose; and her be a Felon because her comes by night, or else when her is not aware or provided for her, her then doth finde out her Cheese in the darke, and her think her enemy doth come ve<g ref="char:EOLhyphen"/>ry neare the word burning, for her doth tost her Cheese very often, for her
+<pb facs="tcp:115954:3"/>have seene her many times in the Chimny corner, and before her can turn face about, or get a good long Weapon, her run away and dare not stand to it like a Coward, looke you now. More to this her doe suspect, and verily beleave her to be a Papist, for her hath beene often seene to runne and play, and make dumbe adorations about the Crosse in the Market place and when her have set her Sacks of Barley and Malt to sell, before her Chapman could aske her prices, her would be working with her teeth at the bottom of the Sack, and being spyed her would whip away and run under the Market Crosse, and it hath beene knowne that some of her ene<g ref="char:EOLhyphen"/>mies, wanting places of harbour to be delivered of their young ones, and being too nimble to be carried to Cages, they have crept into holes in Churches, behind old Crosses and Images, and there have bred up their posterities, so that some of her enemies bee naturally Papists by their Pedi<g ref="char:EOLhyphen"/>gree. What shall her doe in these cases? her were best get a Protection for her Cheeses, for all her Country is in great feares and uproares about these enemies, and her know not what to doe if her may bee robb'd, and have her Goods eaten before her face and behind her back, and yet have no course taken to slay and kill her domestick homebred enemies.</p>
+            <p>Her hath been loath to complaine against these her foes and enemies; because some will put flouts and jeetes upon her Country-men, as they did when they made her <hi>Inventories,</hi> in meere scoffs and derisions; but let her know whomsoever her be, if her were in her Cases, and should see her selfe eaten up, not with her enemies which her doe scorne, but by a kind of little-eyed <hi>Dundegoes,</hi> and be made poorer than her would make her in her <hi>Inventory;</hi> this would make her I warrant you scratch her head, and bite her nayle, with studying to endite her minde in new complaints and Petitions; and to publish and Print her grievances in sheets of Paper, in all the appeliations and names of her Country-men, who will give good testimonies and witnesse to these her Inditements and Charges against Master <hi>Little-eyes</hi> our mortall enemies, and because her cannot so well expresse her cogitations, thoughts, and minds in English speeches, and Inkehorne languages, although her could draw a thousand Sheepe-skin Parchments into formes of Bills, if so bee that her should pen her matter, or her feares and oppressions in Welch, or the antient <hi>British</hi> Tongue, then have at her for making large Tales, and Stories of her wrongs which have beene done unto her, which would make her Mountaines and Rocks speake, and Springs weepe: but because her would not mistake and make boyes fioute and scoffe her Petitions, and her words and utterances, her intending to be very serious, and in all humilities to make a true and un<g ref="char:EOLhyphen"/>fayned
+<pb facs="tcp:115954:4"/>Relations of her great injuries and indignities offered by her ene<g ref="char:EOLhyphen"/>mies, and still daily practised; her doth therefore for the better reprehen<g ref="char:EOLhyphen"/>sions, and misconceiving of the matter, fashion her Inditement, Accusati<g ref="char:EOLhyphen"/>on, Bill, or Petition into <hi>Articulus,</hi> her cannot know that word in welch, her must see her Dictionary for that word <hi>articulus;</hi> let her looke about her, <hi>Ianuary,</hi> it is not in that Cullum, nor in <hi>February,</hi> oh it begins with <hi>A.</hi> her must looke for <hi>A. March, April,</hi> looke you now her hath found in <hi>April,</hi> her have found the word, it is not <hi>Articulus,</hi> but <hi>Articles:</hi> and her will have Articles against her till her make her Arse ticles, for her knowes her enemies to be Rogues, Rascalls and Villaines, Felons, Rob<g ref="char:EOLhyphen"/>bers, Bloud-suckers of old Religions, Jesuit or Atheists, and worse an hundred times then her can devise or invent in English, but her could de<g ref="char:EOLhyphen"/>scribe her to a haire, and all her knaveries in welch, but for the present time her hath made shift to deliver her minds and dangers in these afore<g ref="char:EOLhyphen"/>said Petitions: And her will also make a Petition to get a Patent to buy Traps, and Gins to catch her enemy if her can. Moreover, her bee deter<g ref="char:EOLhyphen"/>mined to send up her Son and Heire after her hath received her next quar<g ref="char:EOLhyphen"/>ters Rent, to buy two score and three Mouse Traps for the present necessi<g ref="char:EOLhyphen"/>ty; for feare her Patent should not be so suddenly granted, as her doe con<g ref="char:EOLhyphen"/>ceive; and when her hath taken good store of her enemies, her doe project to send the Guts of her enemy, if her can take her, mark there that; to make Fiddle-strings against Bartholemew Faire next comming.</p>
+            <closer>Humbly wishing and desiring, that the whole Country of Wales may be defended from her enemies, and that there may be good store of Mouse-traps bought, such as her hath seene in Crooked Lane, in London, whereby her foes and enemies may be taken in their owne devices, and their power lessoned, their ravenous minds abated, and their fierce stomacks qualified, which they have often shewed in de<g ref="char:EOLhyphen"/>vouring our goods and provisions, that her cannot pay her Rents. And her prayes in all humility, that her may have three score and two Canterbury Catts speedily sent to her ayd; That these her ene<g ref="char:EOLhyphen"/>mies, so many as are taken Prisoners and alive, may bee brought up in some convenient Hamper, and be committed to the long Powdring Tub, to remaine there without Bayle or Mainprise: that they may make skirmishes with her enemies, and beate them out of her Coun<g ref="char:EOLhyphen"/>try, and all her antient Brittaines shall be bound to pray, &amp;c.</closer>
+         </div>
+         <div type="answer_to_petition">
+            <pb facs="tcp:115954:4"/>
+            <head>Master Mouse his Answer to her Country-mans Petition.</head>
+            <p>IT doth seeme by this Petition good-man <hi>Ienkin</hi> that your Welch bloud is up, you would make a good Laborour to carry Bricke and Morter, for as soone as you are angry you are presently a top of the house; but as it is said when any thing is found knawd, that the Mouse hath bin here, so hee that shall reade this Welch Petition, and finde therein such broken English, false Writing, unproper words, and so many Hers in every line, may very well thinke that the Welch-man hath beene here, and hath begotten out of his Braines a Shee Petition. You are afraid of Thieves, that is of your owne shadow, for who more Thiefe than your selfe; and for your Cheeses they are as hard as Mill-stones, and stinke of Goates Milke, especially being tosted, so that the Divell would rather bee starv'd then boorded with Cheese in Wales: Your other Accusations are lyes, and shew you to be a right Brittaine, that will make a Mountain of a Mole-hill, as appeareth by your setting forth her Countries wrongs and feares in her long Bills and Petitions.</p>
+         </div>
+         <div type="reply">
+            <head>The Welch-mans Reply.</head>
+            <p>WHat does her answer her so; compare her and call her her Coun<g ref="char:EOLhyphen"/>try-man; by her precious conscience, her will shew this her enemy no more favours, then the Taylore doth her enemy when he finds her ene<g ref="char:EOLhyphen"/>my in her neck or bosome: Cods body call her her Country-man, oh base, oh intollerable, and more base then her base Violl which hangs in her chamber: why her had best bring the Frog, and such like Catterpillars, and say her is her Country-man as well as the Lowse, or Mouse.</p>
+            <p>Her will fetch her long Hook with the pike at the end of it, her Armour and her Peece, and her Gantlet, her double-edged sword, or her backe sword, and her Dagger, and all her Country-men will march out with her in Warlike proportions, and kill her enemies if her Petitions bee not regarded, wherein her doe know is true matters and of good weights, look you there now; Her made not her Petitions to bee laughtat, therefore her will kill her enemy, and make no more adoe with Petitions.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:115954:5"/>
+            <head>The Protestation of <hi>Thomas, ap Shinkin, ap Morgan, ap Howell,</hi> &amp;c.</head>
+            <p>
+               <hi>INprimis,</hi> Her was vow and protest her selfe to live in te true faith which was alwaies <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sed py <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>redecessors, und tey was <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asted in te owld and antient time prosestants.</p>
+            <p>
+               <hi>Item.</hi> Her was vow had protest againe her was never a pide Papists, and Puritants in a awle her life.</p>
+            <p>
+               <hi>Item.</hi> Her was sweare py St. Tassie againe and againe that her was <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ver desire to pe <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Ireland,</hi> and was never love Treasons, pecot her was love her head a little petter.</p>
+            <p>
+               <hi>Item,</hi> Her was never apide to hearet at her was have Lord Iustice, eat<g ref="char:EOLhyphen"/>shet her was never love to run from her Country.</p>
+            <p>
+               <hi>Item,</hi> Her was never love apove all tings to pe Shudge for tivers reasons.</p>
+            <p>First, her was alwares ferry pittifull, and her was not find in her heart to hang to poore rogues.</p>
+            <p>Secontly, her was not all apide ship-monies. And turtly and lastly, her was never apide to pe hang'd her selfe.</p>
+            <p>
+               <hi>Item,</hi> Her was never apide to pe a beshit, her was feare shooking will her Lawne sleeves.</p>
+            <p>Put her was have a creat tesire to pe a cood Shentilman of <hi>Wales,</hi> and her tid never in awle her life get a Patten, for her was feare the Pillory; put her was ride on hunting ore te hils, ore thles, are te tach, are te palette follow her little pawling togs, where her was cry ship shop, with her pugle horn by her side, and at to last if her cood, her, was catch the nimble Hare, and eate her for her supper when her was roasted, for her was ket her a cood stomack when her was catch her, tis was a creat teal petter sport <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n beheading and hanging and running away from her own perne Country &amp; putting her in to prison, and make her peep torough to Pill<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, and rite with her face to te tayle of her horse; pecot her was never in awle her porn see such fashion; in her own Country: cose tat was love at let her weare it; pe<g ref="char:EOLhyphen"/>ca<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s pl<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t her was never apide it put alwaies akaine and akaine her was love, apide and tesire quietn sse till her Welch plead was up, and ten her was fight with te Fivell, and all, if her was angry her.</p>
+            <p>
+               <hi>Item,</hi> Her was never apide to pow to the Altar, her was made of wood and stone, and was creat atoletry to pow to her; put her was pow and pend as long as her hamstrings cood not hold, to her creat Cod of Mighty.</p>
+            <p>And her was alwaies pray that Cot would plesse our cood King and Queene, and her owne prince of <hi>Wales,</hi> and confond te Pope, and te <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and awle her enemies.</p>
+            <trailer>FINIS.</trailer>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:115954:6"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:115954:6"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:115954:7"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:115954:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
